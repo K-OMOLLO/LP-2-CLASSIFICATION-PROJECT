@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project Members
 
 1. Samuel Dribsa>> https://github.com/Samidirbsa
@@ -104,12 +103,7 @@ Assess the predictive model's performance.
 Test the model and compute accuracy.
 
 Here are links to my powerbi dashboard and article.
-|PowerBi|https://app.powerbi.com/groups/me/reports/5e428c4d-1cde-4c2f-8e84-16d47e008a95/ReportSection?experience=power-bi
-|Article|https://medium.com/@samuel47dribsa/vodafone-classification-and-predicting-customer-churn-project-2d56be112f22
-
+|PowerBi|https://app.powerbi.com/groups/me/reports/969bb2a8-7c0a-45d6-ab5a-e74ec7d098fb/ReportSection?experience=power-bi
+|Article|https://medium.com/@keithomollo/vodafone-classification-and-predicting-customer-churn-project-21f2446b0f7d
 # Author.
-Samuel Dribsa and Paragon Group
-=======
-# LP-2-CLASSIFICATION-PROJECT
- In this project, we aim to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
->>>>>>> 5679de6c89bdc281fe712669f4564ed2567bf38e
+Paragon Team
