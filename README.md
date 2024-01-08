@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Members
 
 1. Samuel Dribsa>> https://github.com/Samidirbsa
@@ -108,3 +109,7 @@ Here are links to my powerbi dashboard and article.
 
 # Author.
 Samuel Dribsa and Paragon Group
+=======
+# LP-2-CLASSIFICATION-PROJECT
+ In this project, we aim to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
+>>>>>>> 5679de6c89bdc281fe712669f4564ed2567bf38e
